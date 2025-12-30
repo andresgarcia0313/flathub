@@ -39,5 +39,5 @@ modules:
       - type: git
         url: https://github.com/andresgarcia0313/lenovo-ideapad.git
         tag: v1.3.1
-        commit: 98c2b6fe34b3bd4060beb6eb85f2e84b7be05837
+        commit: 6a0ae1f8513aeab9b1fe634dffc76e55cd904a8a
       - cargo-sources.json
